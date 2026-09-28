@@ -1,0 +1,6 @@
+{
+  "name": "Elementos de la Comunicación - Իսպաներեն / Հայերեն",
+  "description": "Ինտերակտիվ ուսումնական ծրագիր՝ իսպաներեն հաղորդակցության տարրերը սովորելու համար հայերեն թարգմանությամբ և աուդիոյով:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
